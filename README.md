@@ -1,7 +1,6 @@
+![icon](https://blog.ps6.fun/favicon.svg)[~blog](https://blog.ps6.fun/)
 
-[~blog](https://blog.ps6.fun/)
-
-[my site](https://www.ps6.fun/)
+![icon](https://blog.ps6.fun/favicon.svg)[my site](https://www.ps6.fun/)
 
 #### Github stats
   
