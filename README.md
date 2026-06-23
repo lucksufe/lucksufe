@@ -1,6 +1,5 @@
-![icon](https://blog.ps6.fun/favicon.svg)[~blog](https://blog.ps6.fun/)
-
-![icon](https://blog.ps6.fun/favicon.svg)[my site](https://www.ps6.fun/)
+[![~blog](https://img.shields.io/badge/📧-联系我-blue)](https://blog.ps6.fun/)
+[![我的网站](https://img.shields.io/badge/🌐-访问官网-brightgreen)](https://www.ps6.fun/)
 
 #### Github stats
   
