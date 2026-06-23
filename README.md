@@ -1,5 +1,5 @@
-[![~blog](https://img.shields.io/badge/📧-my blog-blue)](https://blog.ps6.fun/)
-[![我的网站](https://img.shields.io/badge/🌐-my site-brightgreen)](https://www.ps6.fun/)
+[![~blog](https://img.shields.io/badge/📧-我的博客-blue)](https://blog.ps6.fun/)
+[![我的网站](https://img.shields.io/badge/🌐-我的网站-brightgreen)](https://www.ps6.fun/)
 
 #### Github stats
   
